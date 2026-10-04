@@ -1,0 +1,7 @@
+{
+  "name": "Ar-Rasheed Modern Schools AI Receptionist",
+  "description": "Elite, professional, and warm AI receptionist for Ar-Rasheed Modern Schools - Moeen English Branch, offering 2026-2027 fee structures, discount eligibility, admissions, and fluent voice playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
